@@ -1,5 +1,5 @@
-
-
+//ID: C1220285
+//Name: Abdikadir Ibrahim Hassan
 import java.util.Arrays;
 import java.util.EmptyStackException;
 
