@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.EmptyStackException;
 
 public class ArrayStack<T> {
-    private  static  final  int DEFAULT_CAPACITY=2;
+    private  static  final  int DEFAULT_CAPACITY=3;
     private int top;
     private T[]  stack;
 
